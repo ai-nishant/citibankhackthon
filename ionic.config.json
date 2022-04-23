@@ -1,0 +1,7 @@
+{
+  "name": "citibankhackthon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
